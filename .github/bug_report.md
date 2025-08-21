@@ -21,7 +21,7 @@ Describe claramente el error que has encontrado. Incluye detalles sobre cómo se
 
 1. Ir a '...'
 
-2. Hacer clic en '...'
+2. Hacer clic en '....'
 
 3. Describir cualquier otra acción hasta que ocurra el problema.
 
